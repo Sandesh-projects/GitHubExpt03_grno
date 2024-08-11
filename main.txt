@@ -1,2 +1,6 @@
 sandesh yadav from D10C
+<<<<<<< HEAD
 studies in third year
+=======
+studies in thrid year
+>>>>>>> d77342893971d6b725ec0055ea45f19d71f8dd45
